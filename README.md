@@ -22,5 +22,6 @@ GUI приложение для отслеживания личных расхо
 ## Как запустить
 
 ```bash
+https://github.com/DriblingYaucami/-
 
 python main.py
